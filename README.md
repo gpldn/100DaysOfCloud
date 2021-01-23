@@ -10,17 +10,13 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## George's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+I'm currently a tier 2 help desk engineer. However, I'm looking to further myself and break into the cloud space. In my pursuit of this I've passed the AZ-900 and AWS CCP exams so far. My next target is the AZ-104.
 
-[✍️ Introduce yourself]
+I was inspired to start this challenge thanks to Gwyneth Peña-Siguenza. I thought it would be a great way to hold myself accountable and track my growth over the 100 days. I'm also hoping it will provide some structure to my learning. 
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge, I hope I have been able to pass my AZ-104 whilst building a solid foundation of knowledge in the process.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
