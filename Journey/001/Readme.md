@@ -4,9 +4,13 @@
 
 ## Cloud Research
 
-- ✍️ Today I took some time out of the weekend to run through the "Implement and manage storage in Azure" module provided by MS Learn [here](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/).
+Today I took some time out of the weekend to run through the "Implement and manage storage in Azure" module provided by MS Learn [here](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/).
 
-After completeing a pratice exam from WhizLabs yesterday, I felt like I struggled with a few questions related to storage in Azure. I'm hoping this will help me understand some of the key concepts further. 
+After completeing a pratice exam from WhizLabs yesterday, I felt like I struggled with a few questions related to storage in Azure. I'm hoping this will help me understand some of the key concepts further. Covered some important things in the module: 
+- Why choosing the correct disk storage is important
+- Reflected on different replication types in Azure
+- Understood the failover process
+- Dipped into Azure File Shares and their uses/benefits
 
 ## Social Proof
 
