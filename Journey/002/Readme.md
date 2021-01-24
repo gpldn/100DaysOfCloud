@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://imgur.com/SjmKHGb)
+![placeholder image](https://user-images.githubusercontent.com/53405071/105636328-ced67f80-5e5f-11eb-9dfb-94827dd9231c.png)
 
 # Sunday Funday (Snow Day!)
 
