@@ -3,6 +3,7 @@
 ## Cloud Research
 
 Following on from the practice yesterday, I've read through the topics I had mentioned:
+
 Load balancers, standard vs basic. https://docs.microsoft.com/en-us/azure/load-balancer/skus
 
 Azure Recovery Services Vault https://docs.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview
