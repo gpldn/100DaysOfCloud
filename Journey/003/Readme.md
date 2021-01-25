@@ -1,52 +1,32 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Light reading
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Following on from the practice yesterday, I've read through the topics I had mentioned:
+Load balancers, standard vs basic. https://docs.microsoft.com/en-us/azure/load-balancer/skus
 
-## Try yourself
+Azure Recovery Services Vault https://docs.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Azure AD - admin roles https://docs.microsoft.com/en-us/azure/active-directory/devices/assign-local-admin
 
-### Step 1 — Summary of Step
+Azure File Sync https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal%2Cproactive-portal
 
-![Screenshot](https://via.placeholder.com/500x300)
+Admin password reset policies https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy
 
-### Step 1 — Summary of Step
+Azure Disk Encryption https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/2-encryption-options-for-protecting-windows-and-linux-vms
 
-![Screenshot](https://via.placeholder.com/500x300)
+Azure Backup https://docs.microsoft.com/en-us/azure/backup/backup-windows-with-mars-agent
 
-### Step 3 — Summary of Step
+App Service Plans https://azure.microsoft.com/en-us/pricing/details/app-service/windows/
 
-![Screenshot](https://via.placeholder.com/500x300)
+Application Gateways https://docs.microsoft.com/en-us/azure/application-gateway/features
 
-## ☁️ Cloud Outcome
+Network Watcher https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-portal
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Virtual Network endpoints https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+I feel like I bridged a few gaps, but still have a long way to go! Didn't get much else done today, it felt like a battle to get through the first 10 minutes. However, even 0.1% progress is better than none. 
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I deleted my personal Twitter account about 4 years ago. Over the past week or so I've considered getting it back to engage with people in the cloud space, but haven't convinced myself yet. 
