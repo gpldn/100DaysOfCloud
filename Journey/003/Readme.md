@@ -1,4 +1,4 @@
-# Light reading
+# Light Reading
 
 ## Cloud Research
 
