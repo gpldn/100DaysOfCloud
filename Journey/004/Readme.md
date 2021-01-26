@@ -2,7 +2,7 @@
 
 # Networking Masterclass
 
-[John Savill](https://user-images.githubusercontent.com/53405071/105914250-0000ac80-6026-11eb-98ea-db1ab8ded083.png)
+![John Savill](https://user-images.githubusercontent.com/53405071/105914250-0000ac80-6026-11eb-98ea-db1ab8ded083.png)
 
 ## Cloud Research
 
