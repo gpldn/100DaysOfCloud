@@ -28,7 +28,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 3 > [Light Reading](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Networking Masterclass](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Thomas Maurer's Study Guide](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Checklist](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
