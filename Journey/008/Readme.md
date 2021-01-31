@@ -1,4 +1,3 @@
-**Add a cover photo like:**
 ![VNets](https://user-images.githubusercontent.com/53405071/106384145-7b18e880-63c1-11eb-8399-cf7e71af5de1.png)
 
 # Planning virtual networks
