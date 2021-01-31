@@ -1,4 +1,3 @@
-**Add a cover photo like:**
 ![VNet Peering](https://user-images.githubusercontent.com/53405071/106398364-467d4f00-640a-11eb-98a6-895fb396bff8.png)
 
 # Connecting VNets with VNet Peering
