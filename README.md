@@ -18,8 +18,8 @@ I was inspired to start this challenge thanks to Gwyneth Peña-Siguenza. I thou
 
 At the end of this challenge, I hope I have been able to pass my AZ-104 whilst building a solid foundation of knowledge in the process.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/username) I don't currently use Twitter. 
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/george-pelling-145634a1)
 
 ## Stepping out the door
 
@@ -30,7 +30,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 5 > [Thomas Maurer's Study Guide](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Checklist](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [More of the checklist](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [Planning virtual networks](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
