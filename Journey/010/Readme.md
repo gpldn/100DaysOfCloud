@@ -1,52 +1,12 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Results](https://user-images.githubusercontent.com/53405071/106655392-32178e80-6591-11eb-890c-4ce79eb77984.png)
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Whizlabs Practice Exam
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Tonight I thought I'd take a practice test from Whizlabs. It's one I've not done yet, so I know it's not just a case of me repeating and exam and remembering the questions, which is something I was worried about. Overall I'm very happy with the result of 70.91%. Whilst listed as a fail, I believe this would be a pass on the real exam.
 
-## Try yourself
+One thing that surprised me is the amount of questions I got wrong in the **Manage Azure identities and governance** section. I considered this one of the places I had a better understanding, but apparently not. I will probably revisit this section tomorrow!
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I've still got a couple of weeks until my exam date, so I'm starting to feel much more confident in a pass. Still a long way to go and I've got to keep on chipping away at it.
