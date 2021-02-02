@@ -32,7 +32,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 7 > [Checklist x2](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Planning Virtual Networks](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [Connecting VNets with VNet Peering](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Whizlabs Practice Exam](Journey/010/Readme.md)
 
 ## Walking down the road
 
