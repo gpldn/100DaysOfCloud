@@ -4,6 +4,6 @@
 
 ## Cloud Research
 
-Tonight I decided to run through Lab 07 - Manage Azure Storage from the Microsoft AZ-104 repo. You can find this here(https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_07-Manage_Azure_Storage.md). A fairly straight forward lab for a Friday night. Helped solidify some knowledge and fill in gaps.
+Tonight I decided to run through Lab 07 - Manage Azure Storage from the Microsoft AZ-104 repo. It was a fairly straight forward lab for a Friday night. It certainly helped solidify some knowledge and fill in gaps. I'd like to get my teeth into something meatier soon, but baby steps and understanding the basics for my AZ-104 exam is my priority at the moment. 
 
 I also tuned in to John Lunn and Gregor Suttie on the Azureish live stream. It was an interesting watch, and I look forward to tuning in again next time. 
