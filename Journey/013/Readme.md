@@ -1,52 +1,16 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![OpenHack](https://user-images.githubusercontent.com/53405071/107161942-e8b3ae80-6997-11eb-8616-1de6927dab77.png)
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# OpenHack Preparation
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Had a light reading session tonight in preparation for my first OpenHack event tomorrow morning! I had a read through the following content on the Microsoft website to try and ready myself:
+•	Cloud migration in the Cloud Adoption Framework
+•	Azure migration guide: Before you start
+•	Cloud rationalization
+•	Migration tools decision guide
 
-## Try yourself
+I'm quite nervous about the OpenHack event. I've never done anything like it before, and I may or may not have stalked the people on my team via LinkedIn to see where I stand in terms of experience. I probably shouldn't have as some of these have been working in IT since before I was brought into this world, and that's only made me more nervous and self-conscious. I don't want to be that guy that slows the team down. Oh well, I'm just going to go into it with an open mind and try and learn as much as I can and see where the 3 days take me. 
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Wish me luck! 
