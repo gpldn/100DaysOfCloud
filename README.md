@@ -38,7 +38,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 
 - [ ] ☁️ 11 > [Manage Azure Storage and Azureish Live Stream](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Manage identities and governance in Azure](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 13 > [OpenHack Preparation](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
