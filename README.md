@@ -36,13 +36,13 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [Manage Azure Storage and Azureish Live Stream](Journey/011/Readme.md)
+- [ ] ☁️ 11 > [Manage Azure Storage Lab and Azureish Live Stream](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Manage identities and governance in Azure](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [Microsoft OpenHack Preparation](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Microsoft OpenHack – Migrating Workloads to Azure – Day 1](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Microsoft OpenHack – Migrating Workloads to Azure – Day 2](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Microsoft OpenHack – Migrating Workloads to Azure – Day 3](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [Manage Azure Storage - Lab](Journey/017/Readme.md)
+- [ ] ☁️ 17 > [Manage Virtual Machines - Lab](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
