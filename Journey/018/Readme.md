@@ -35,7 +35,3 @@ This depends on how you have set up the alert. You can be notified via e-mail, a
 
 **Under what service in the Azure Portal do you find Cost Alerts?**
 Cost Management + Billing
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
