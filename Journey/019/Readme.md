@@ -1,6 +1,6 @@
 ![Results](https://user-images.githubusercontent.com/53405071/108133745-f4e0ef80-70ac-11eb-88a9-07c6fd530a4f.png)
 
-# WhizLabs Practice Exam
+# Whizlabs Practice Exam
 
 ## Cloud Research
 
