@@ -44,7 +44,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 16 > [Microsoft OpenHack – Migrating Workloads to Azure – Day 3](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [Manage Virtual Machines - Lab](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Creating Cost Alerts - Lab](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [ ] ☁️ 19 > [Whizlabs Practice Exam](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
