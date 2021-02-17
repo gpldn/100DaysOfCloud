@@ -45,7 +45,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 17 > [Manage Virtual Machines - Lab](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Creating Cost Alerts - Lab](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Whizlabs Practice Exam](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [AZ-104 Study](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
