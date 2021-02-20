@@ -50,7 +50,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 ## Crossing the bridge
 
 - [ ] ☁️ 21 > [AZ-104 Study](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
+- [ ] ☁️ 22 > [AZ-104 Study](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
