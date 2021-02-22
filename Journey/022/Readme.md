@@ -1,5 +1,6 @@
-AZ-104 Study
-Cloud Research
+# AZ-104 Study
+
+## Cloud Research
 
 Another day of study. 7 days to go.
 
