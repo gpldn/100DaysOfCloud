@@ -52,7 +52,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 21 > [AZ-104 Study](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [AZ-104 Study](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [AZ-104 Study](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
+- [ ] ☁️ 24 > [AZ-104 Study](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
