@@ -58,7 +58,7 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 27 > [AZ-104 Study](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [EXAM DAY! PASSED!!!!!!!!!!!!!!](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Getting back to it!](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Azure AD Identity Design](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
