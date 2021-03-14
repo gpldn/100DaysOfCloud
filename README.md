@@ -56,8 +56,8 @@ At the end of this challenge, I hope I have been able to pass my AZ-104 whilst b
 - [ ] ☁️ 25 > [AZ-104 Study](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [AZ-104 Study](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [AZ-104 Study](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [EXAM DAY!](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
+- [ ] ☁️ 28 > [EXAM DAY! PASSED!!!!!!!!!!!!!!](Journey/028/Readme.md)
+- [ ] ☁️ 29 > [Break Over](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
