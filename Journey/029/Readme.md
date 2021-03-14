@@ -1,52 +1,9 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Getting back to it!
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+So, after a longer break than I initially stated, I'm finally getting back to things. Once I had passed the AZ-104 I was hit with an overwhelming feeling of "What now?". Logic tells me the 204, or the 303 and 304. However, I don't have the development experience at all, and I don't have enough real world experience to tackle the 300 series. My dilemma I felt was, I don't want to become one of those people who are over certified and inexperienced. 
 
-## Try yourself
+After speaking with some users of the #100DaysOfCloud community, I think I'm going to work toward the 300 series, but I'm not going to set myself any concrete deadline. I feel like this will allow me to get more exposure in Azure, and hopefully throw in some ideas at my work place too. Without any particular criteria to meet to pass an exam, I feel like I will have a bit more freedom and enjoyment of just learning as I go along. Of course, that's subject to change as I go along my journey, but it feels like the right place to start right now.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I've signed myself up to CloudSkills.io and I'll be listening to episode 1 of their 300 series tonight. 
